@@ -192,7 +192,7 @@ def get_discipline_with_highest_passing_rate_by_shool_year(school_year):
 
 #8 list top 3 SUC with the most passing rate by discipline by school year
 def get_top_3_suc_performer_by_discipline_by_year(discipline, school_year):
-  print "8. Top 3  SUC with highest passing rate in Accountancy for school year 2010-2011   are: "
+  print "8. Top 3 SUC performer by discipline for school year 2010-2011  are: "
   print "  1. "
   print "  2. "
   print "  3. "
